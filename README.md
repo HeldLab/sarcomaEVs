@@ -9,7 +9,8 @@ expt_smty.xlsx: Used for ProteoQ annotation
 
 File X contains Y....
 
-Notebook X does Y....
+## Jupyter notebook details
+Notebook VanTineEtAl_ProteoQ.ipynb is used for ProteoQ processing and to generate some panels of Figure 1.
 
 Tuned models are X....
 
