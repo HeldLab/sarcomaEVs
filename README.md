@@ -12,7 +12,7 @@ All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](mas
 File X contains Y....
 
 ### Jupyter notebook details
-* Notebook VanTineEtAl_ProteoQ.ipynb is used for ProteoQ processing of the Sarcoma cohort and to generate some panels of Figure 1.
+* Notebook VanTineEtAl_ProteoQ.ipynb is used for ProteoQ processing of the Sarcoma cohort and to generate some panels of Figure 2.
 
 Tuned models are X....
 
