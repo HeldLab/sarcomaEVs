@@ -8,6 +8,7 @@ All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](mas
 * SampleMetadata.xlsx: Sample metadata for Sarcoma cohort
 * expt_smty.xlsx: Annotation file needed for ProteoQ processing of Sarcoma cohort
 * ProteinQuantitationWithSampleMetadata.xlsx: Final protein-level quantitation of the Sarcoma cohort with sample metadata added
+* uniprotAnnotationsForFigure2.xlxs: Uniprot annotations for Figure 2
 
 File X contains Y....
 
