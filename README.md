@@ -17,6 +17,7 @@ File X contains Y....
 * Notebook VanTineEtAl_ProteoQ.ipynb is used for ProteoQ processing of the Sarcoma cohort and to generate some panels of Figure 2.
 * Notebook VanTineEtAl_Figure1_LinePlot.ipynb is used to generate the line plot in Figure 1.
 * Notebook VanTineEtAl_Fig2_VolcanoPlot.ipynb is used to generate the volcano plot (sarcoma vs. healthy) in Figure 2.
+* Notebook VanTineEtAl_Figure2_Catplot.ipynb is used to generate the catplot in Figure 2.
 
 Tuned models are X....
 
