@@ -15,6 +15,7 @@ File X contains Y....
 ### Jupyter notebook details
 * for all notebooks use Python v3.10, jupyterlab v 4.1.1, pandas v2.0.0, numpy v1.23.4, scikit-learn v1.3.2, joblib v1.3.2, statsmodels v 0.14.0, scipy v 1.10.1, pingoin 0.5.3, openpyxl v 3.0.10, optuna v3.5.0, xgboost v2.0.3, catboost v1.2.3, lightgbm v4.3.0, and pip 24.0.
 * Notebook VanTineEtAl_ProteoQ.ipynb is used for ProteoQ processing of the Sarcoma cohort and to generate some panels of Figure 2.
+* Notebook VanTineEtAl_Fig2_VolcanoPlot.ipynb is used to generate the volcano plot (sarcoma vs. healthy) in Figure 2.
 
 Tuned models are X....
 
