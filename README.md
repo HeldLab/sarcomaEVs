@@ -18,7 +18,7 @@ File X contains Y....
 * Notebook VanTineEtAl_Figure1_LinePlot.ipynb is used to generate the line plot in Figure 1.
 * Notebook VanTineEtAl_Fig2_VolcanoPlot.ipynb is used to generate the volcano plot (sarcoma vs. healthy) in Figure 2.
 * Notebook VanTineEtAl_Figure2_Catplot.ipynb is used to generate the catplot in Figure 2.
-* Notebook VanTineEtAl_Fig4_VolcanoPlot_sensitivePatients_PreVsPost.ipynb is used to generate the sensitive:resistant volcano plot in Fig 4.
+* Notebook VanTineEtAl_Fig4_VolcanoPlot_SvR.ipynb is used to generate the sensitive:resistant volcano plot in Fig 4.
 
 Tuned models are X....
 
