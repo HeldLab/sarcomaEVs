@@ -23,6 +23,7 @@ File X contains Y....
 * Notebook VanTineEtAl_Fig4_VolcanoPlot_SvR.ipynb is used to generate the sensitive:resistant volcano plot in Fig 4.
 * Notebook VanTineEtAl_Fig4_LDA.ipynb is used to generate the LDA-related plots in Figure 4.
 * Notebook VanTineEtAl_Figure4_Catplot.ipynb is used to generate the catplots in Figure 4.
+* Note to self: don't forget the notebook to make dfHarmonized
 
 Tuned models are X....
 
