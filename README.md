@@ -22,7 +22,7 @@ File X contains Y....
 * Notebook VanTineEtAl_Fig5_VolcanoPlot_sensitivePatients_PreVsPost.ipynb.ipynb is used to generate the volcano plot (pre vs. post treatment in drug sensitive sarcoma patients) in Figure 5.
 * Notebook VanTineEtAl_Fig5_VolcanoPlot_SvR.ipynb is used to generate the sensitive:resistant volcano plot in Fig 5.
 * Notebook VanTineEtAl_Fig5_LDA.ipynb is used to generate the LDA-related plots in Figure 5.
-* Notebook VanTineEtAl_Figure5_Catplot.ipynb is used to generate the catplots in Figure 5.
+* Notebook VanTineEtAl_Fig5_Catplot.ipynb is used to generate the catplots in Figure 5.
 * Note to self: don't forget the notebook to make dfHarmonized
 
 Tuned models are X....
