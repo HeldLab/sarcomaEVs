@@ -20,6 +20,7 @@ File X contains Y....
 * Notebook VanTineEtAl_Fig1_LinePlot.ipynb is used to generate the line plot in Figure 1.
 * Notebook VanTineEtAl_Fig2_VolcanoPlot.ipynb is used to generate the volcano plot (sarcoma vs. healthy) in Figure 2.
 * Notebook VanTineEtAl_Fig2_Catplot.ipynb is used to generate the catplot in Figure 2.
+* Notebook VanTineEtAl_Harmonizer.ipynb is used to harmonize the sarcoma and Hoshino datasets. Uses R v4.2.1.
 * Notebook VanTineEtAl_Fig5_VolcanoPlot_resistantPatients_PreVsPost.ipynb.ipynb is used to generate the volcano plot (pre vs. post treatment in drug resistant sarcoma patients) in Figure 5.
 * Notebook VanTineEtAl_Fig5_VolcanoPlot_sensitivePatients_PreVsPost.ipynb.ipynb is used to generate the volcano plot (pre vs. post treatment in drug sensitive sarcoma patients) in Figure 5.
 * Notebook VanTineEtAl_Fig5_VolcanoPlot_SvR.ipynb is used to generate the sensitive:resistant volcano plot in Fig 5.
