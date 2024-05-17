@@ -10,7 +10,10 @@ All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](mas
 * ProteinQuantitationWithSampleMetadata.xlsx: Final protein-level quantitation of the Sarcoma cohort with sample metadata added
 * uniprotAnnotationsForFigure2.xlxs: Uniprot annotations for Figure 2
 * dfHarmonizer.txt: used to harmonize sarcoma and Hoshino datasets
-* * dfMerged_description.csv: used to harmonize sarcoma and Hoshino datasets
+* dfMerged_description.csv: used to harmonize sarcoma and Hoshino datasets
+* _selectedFeaturesRFECV_target-dfHarmonizedCancer_nSampleFilter60_trainFrac-0.75_wholeDataset.json: selected features for KNN pan-cancer classification
+* studyKNeighborsClassifier_dfHarmonizedCancer_nSampleFilter60_trainFrac-0.75_wholeDataset.db: KNN pan-cancer classifier as a db file
+* KNeighborsClassifierTuned_target-dfHarmonizedCancer_nSampleFilter60_trainFrac-0.75_wholeDataset.pkl: KNN pan-cancer classifier as a pkl file
 
 File X contains Y....
 
