@@ -30,4 +30,3 @@ All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](mas
 * Notebook VanTineEtAl_Fig5_LDA.ipynb is used to generate the LDA-related plots in Figure 5.
 * Notebook VanTineEtAl_Fig5_Classification.ipynb is used for the sarcoma vs healthy and doxorubicin sensitivity classification in Figure 5.
 * Notebook VanTineEtAl_Fig5_Catplot.ipynb is used to generate the catplots in Figure 5.
-* Note to self: don't forget the notebook to make dfHarmonized
