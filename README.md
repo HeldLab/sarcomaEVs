@@ -15,8 +15,6 @@ All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](mas
 * studyKNeighborsClassifier_dfHarmonizedCancer_nSampleFilter60_trainFrac-0.75_wholeDataset.db: KNN pan-cancer classifier as a db file
 * KNeighborsClassifierTuned_target-dfHarmonizedCancer_nSampleFilter60_trainFrac-0.75_wholeDataset.pkl: KNN pan-cancer classifier as a pkl file
 
-File X contains Y....
-
 ### Jupyter notebook details
 * for all notebooks use Python v3.10, R v 4.2.1, jupyterlab v 4.1.1, pandas v2.0.0, numpy v1.23.4, scikit-learn v1.3.2, joblib v1.3.2, statsmodels v 0.14.0, scipy v 1.10.1, pingoin 0.5.3, openpyxl v 3.0.10, optuna v3.5.0, xgboost v2.0.3, catboost v1.2.3, lightgbm v4.3.0, rpy2 v3.5.9, and pip 24.0.
 * Notebook VanTineEtAl_ProteoQ.ipynb is used for ProteoQ processing of the Sarcoma cohort and to generate some panels of Figure 2.
@@ -33,7 +31,3 @@ File X contains Y....
 * Notebook VanTineEtAl_Fig5_Classification.ipynb is used for the sarcoma vs healthy and doxorubicin sensitivity classification in Figure 5.
 * Notebook VanTineEtAl_Fig5_Catplot.ipynb is used to generate the catplots in Figure 5.
 * Note to self: don't forget the notebook to make dfHarmonized
-
-Tuned models are X....
-
-Python virtual envrionment file...
