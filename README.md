@@ -1,4 +1,4 @@
-## Repository associated with the manuscript "An atlas of plasma extracellular vesicle proteins distinguishing cancer and doxorubicin sensitivity"
+### Repository associated with the manuscript "An atlas of plasma extracellular vesicle proteins distinguishing cancer and doxorubicin sensitivity"
 
 This reposotory includes the code and key summary tables related to the manuscript by Van Tine _et al._ focused on sarcoma extracellular vesicles. Several of the steps are best performed on a computer cluster to ensure sufficient memory.
 
