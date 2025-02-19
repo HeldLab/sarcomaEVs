@@ -22,6 +22,7 @@ All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](mas
 * Notebook VanTineEtAl_Fig1_LinePlot.ipynb: used to generate the line plot in Figure 1.
 * Notebook VanTineEtAl_Fig2_VolcanoPlot.ipynb: used to generate the volcano plot (sarcoma vs. healthy) in Figure 2.
 * Notebook VanTineEtAl_Fig2_Catplot.ipynb: used to generate the catplot in Figure 2.
+* Notebook VanTineEtAl_Figs2&5_SarcomaClassification.ipynb: used for the sarcoma vs healthy and doxorubicin sensitivity classification in Figures 2 & 5.
 * Notebook VanTineEtAl_Fig3_panCancerClassification.ipynb: used for the pan-cancer classification in Figure 3.
 * Notebook VanTineEtAl_Figs3&4_AllButClassification.ipynb: used for the non-classification plots in Figures 3 & 4.
 * Notebook VanTineEtAl_Harmonizer.ipynb: used to harmonize the sarcoma and Hoshino datasets. Uses R v4.2.1.
@@ -29,5 +30,4 @@ All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](mas
 * Notebook VanTineEtAl_Fig5_VolcanoPlot_sensitivePatients_PreVsPost.ipynb.ipynb: used to generate the volcano plot (pre vs. post treatment in drug sensitive sarcoma patients) in Figure 5.
 * Notebook VanTineEtAl_Fig5_VolcanoPlot_SvR.ipynb: used to generate the sensitive:resistant volcano plot in Fig 5.
 * Notebook VanTineEtAl_Fig5_LDA.ipynb: used to generate the LDA-related plots in Figure 5.
-* Notebook VanTineEtAl_Fig5_Classification.ipynb: used for the sarcoma vs healthy and doxorubicin sensitivity classification in Figure 5.
 * Notebook VanTineEtAl_Fig5_Catplot.ipynb: used to generate the catplots in Figure 5.
