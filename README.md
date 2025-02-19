@@ -1,8 +1,6 @@
-### Repository associated with the manuscript "An atlas of plasma extracellular vesicle proteins distinguishing cancer and doxorubicin sensitivity"
-
-This reposotory includes the code and key summary tables related to the manuscript by Van Tine _et al._ focused on plasma extracellular vesicles in patient with sarcom anad other cancers. Note that several of the notebooks perform best on a computer cluster with sufficient memory.
-
-All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](massive.ucsd.edu) with ID MSV000092188. Reviewers can use the username MSV000092188_reviewer and password VanTine_001_0616 to anonymously access the data. The FTP download link is ftp://MSV000092188@massive.ucsd.edu. Accessing data for the Hoshino _et al._ dataset is detailed in their [Cell manuscript](https://www.sciencedirect.com/science/article/pii/S0092867420308746?via%3Dihub).
+## Repository associated with the manuscript "An atlas of plasma extracellular vesicle proteins distinguishing cancer and doxorubicin sensitivity"
+* This reposotory includes the code and key summary tables related to the manuscript by Van Tine _et al._ focused on plasma extracellular vesicles in patient with sarcom anad other cancers. Note that several of the notebooks perform best on a computer cluster with sufficient memory.
+* All proteomic data for the Sarcoma cohort is deposited in UCSD’s [Massive](massive.ucsd.edu) with ID MSV000092188. Reviewers can use the username MSV000092188_reviewer and password VanTine_001_0616 to anonymously access the data. The FTP download link is ftp://MSV000092188@massive.ucsd.edu. Accessing data for the Hoshino _et al._ dataset is detailed in their [Cell manuscript](https://www.sciencedirect.com/science/article/pii/S0092867420308746?via%3Dihub).
 
 ### File details
 * **SampleMetadata.xlsx**: Sample metadata for Sarcoma cohort
